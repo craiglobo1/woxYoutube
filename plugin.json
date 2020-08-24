@@ -1,0 +1,12 @@
+{
+  "ID": "c1cb6bbf-44c6-412b-844d-1b4844faad99",
+  "ActionKeyword": "m",
+  "Name": "Youtube Music Player",
+  "Description": "it playes music from youtube",
+  "Author": "Craig Lobo and Nathan D'souza",
+  "Version": "1.0",
+  "Language": "python",
+  "Website": "https://github.com/craiglobo1/woxYoutube",
+  "IcoPath": "Images\\music.ico",
+  "ExecuteFileName": "main.py"
+}
